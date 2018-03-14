@@ -1,5 +1,5 @@
 
-## 技术栈 hello world：
+## 技术栈：
   react + redux + webpack + react-router + ES6/7/8 + immutable
 
 
